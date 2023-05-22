@@ -1,0 +1,12 @@
+export { default as App } from "./app/app";
+export { default as Main } from "./main/main";
+export { default as Channel } from "./channel/chanel";
+export { default as Videodetail } from "./video-detail/video-detail";
+export { default as SearchBar } from "./search/search";
+export { default as Navbar } from "./navbar/navbar";
+export { default as Categorya } from "./category/category";
+export { default as Videos } from "./videos/videos";
+export {default as Chanelcard} from "./chanel-card/chanel-card";
+export {default as Search} from "./searchbar/searchbar";
+export {default as Videocard} from "./video-card/videocard";
+export { default as Logo } from "./img/1.png";
